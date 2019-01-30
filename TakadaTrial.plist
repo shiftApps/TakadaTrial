@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/71884512/CCLEN.ipa</string>
+					<string>https://github.com/shiftApps/TakadaTrial/releases/download/1.0/CCAnalyzer.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shift.LEN</string>
+				<string>com.shift.TakadaFJM-Trial</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LENコード認識</string>
+				<string>配管CC-検証</string>
 			</dict>
 		</dict>
 	</array>
